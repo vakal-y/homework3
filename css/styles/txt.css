@@ -1,0 +1,62 @@
+p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 145%;
+    letter-spacing: 0.05em;
+    color: #1C1D28;
+}
+
+h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 145%;
+    letter-spacing: 0.02em;
+    color: #1C1D28;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 145%;
+    letter-spacing: 0.02em;
+    color: #1C1D28;
+}
+
+h3 {
+    display: block;
+    width: 261px;
+    height: 132px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 145%;
+    letter-spacing: 0.02em;
+    color: #1C1D28;
+}
+
+h4 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 145%;
+    letter-spacing: 0.02em;
+    color: #1C1D28;
+}
+
+h5 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 145%;
+    letter-spacing: 0.05em;
+    color: #1C1D28;
+}

@@ -1,0 +1,140 @@
+footer {
+    background-color: #1C1D28;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+
+.footer-items {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 90px;
+    margin-bottom: 40px;
+}
+
+.footer-item1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-soc {
+    display: block;
+    width: 40px;
+    height: 40px;
+}
+
+.footer-logo {
+    display: block;
+    width: 65px;
+    height: 65px;
+}
+
+.footer-socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.footer-socials2 {
+    display: flex;
+    margin-top: 20px;
+}
+
+.footer-instagram {
+    display: block;
+}
+
+.footer-behance {
+    display: block;
+}
+
+.footer-dribbble {
+    display: block;
+}
+
+.footer-item2 {
+    display: block;
+    box-sizing: border-box;
+    padding-right: 10px;
+    margin-left: 150px;
+    color: #fff;
+}
+
+.footer-item3 {
+    display: block;
+    box-sizing: border-box;
+    margin-left: 100px;
+    color: #fff;
+}
+
+.footer-item4 {
+    display: block;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.footer-name {
+    margin-bottom: -80px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 145%;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.footer-links {
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 185%;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+
+.footer-link:hover {
+    color: #ff5c66;
+}
+
+.footer-soc {
+    margin-right: 20px;
+}
+
+.footer-soc2 {
+    display: block;
+    margin-right: 15px;
+}
+
+.footer-bottom {
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: rgba(255, 255, 255, 0.3);
+}
+
+.footer__politic {
+    display: block;
+    margin-left: 550px;
+    margin-right: 50px;
+}
+
+.footer__oferta {
+    display: block;
+}
